@@ -1,6 +1,16 @@
-# Gesture-Controlled Presentation System
+# Hand-Gesture Controlled Presentation System
 
 This project implements a gesture-controlled presentation system using computer vision and hand tracking. Users can navigate through slides and annotate them using hand gestures captured by a webcam.
+
+## Targeted Audience
+
+This project is targeted especially towards differently abled people around the world:
+
+- **Mobility Impairments**: People with limited use of their hands or arms, such as those with cerebral palsy or spinal cord injuries.
+- **Repetitive Strain Injuries (RSI)**: Individuals with conditions like carpal tunnel syndrome, reducing the need for repetitive motions.
+- **Amputees**: People who have lost limbs and find it challenging to use standard input devices.
+- **Muscle Weakness**: Individuals with conditions like muscular dystrophy, benefiting from easier hand gestures.
+- **Parkinson’s Disease**: People with Parkinson's disease who experience tremors or difficulty with fine motor control.
 
 ## Features
 
